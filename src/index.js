@@ -19,8 +19,15 @@ const messages = [
   "Me rendí. Lo dejé así.",
   "Todo mal, pero ya lo empujé.",
   "No lo entendí, pero lo arreglé.",
+  "Capa 8",
+  "Commit de último minuto, como siempre.",
+  "¿Qué hace este código? No lo sé, pero funciona.",
+  "Commit de viernes por la tarde, ¡a ver qué pasa!",
+  "Este commit es un misterio, incluso para mí.",
+  "Código escrito con amor y un poco de desesperación.",
+  "Commit de supervivencia: si funciona, no lo toques.",
+  "Este commit es como un café: oscuro y lleno de sorpresas."
 ];
-
 
 const funnyCommit = () => {
   const message = messages[Math.floor(Math.random() * messages.length)];
