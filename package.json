@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-devdani",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random String Messages",
   "main": "index.js",
   "scripts": {
