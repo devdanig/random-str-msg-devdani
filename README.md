@@ -1,6 +1,6 @@
 # random-str-msg
 
-Y en el principio, el terminal dijo: git init
+Y en el principio, el terminal dijo: git init 
 
 ## Install
 
